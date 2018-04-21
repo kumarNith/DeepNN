@@ -1,2 +1,2 @@
 # DeepNN
-To track yy Deep learning journey!
+To track my Deep learning journey!
